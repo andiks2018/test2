@@ -3,3 +3,5 @@ test 2
 - mebuat platform untuk pengelolaan video 
 - membuat forum diskusi
 - makan minum di rumah
+- bikin rumah 
+- menikah
