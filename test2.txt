@@ -1,0 +1,4 @@
+test 2 
+- belajar git dan github 
+- mebuat platform untuk pengelolaan video 
+- membuat forum diskusi
