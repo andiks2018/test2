@@ -3,6 +3,9 @@ RENCANA KONTENT WPU
 - JAVASCRIPT
 a. tambah detail java scrip
 b. kurangi noise 
+
+hanya pengen main 
+dan belajar aja 
 - INTERVIEW
 - VLOG
 - materi dasare struktu rdata 
