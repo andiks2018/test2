@@ -7,3 +7,4 @@ b. kurangi noise
 - VLOG
 - materi dasare struktu rdata 
 tambah nasi 
+hilangkan minum
