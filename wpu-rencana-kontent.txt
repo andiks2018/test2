@@ -5,3 +5,4 @@ a. tambah detail java scrip
 b. kurangi noise 
 - INTERVIEW
 - VLOG
+- materi dasare struktu rdata 
