@@ -3,3 +3,5 @@
 Repository adalah folder tempat kita membuat project/file script
 Membuat repository
 create file .txt
+setiap edit, hapus, klik tombol commit changes 
+untuk hapus repositori : setting paling bawah delete repository
