@@ -1,10 +1,5 @@
-test 2 
-- belajar git dan github 
-- mebuat platform untuk pengelolaan video 
-- membuat forum diskusi
-- makan minum di rumah
-- bikin rumah 
-- menikah
-- menjadikan anak - anak yang sholeh
-
-alhamdulillah berhasil
+1. Materi Video 1  WP Unpas : teori 
+2. Materi Video 1  WP Unpas : 
+Repository adalah folder tempat kita membuat project/file script
+Membuat repository
+create file .txt
